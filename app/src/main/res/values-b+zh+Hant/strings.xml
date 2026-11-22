@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">視力模擬器</string>
+    <string name="action_retry">重試</string>
+    <string name="action_allow_camera">允許存取</string>
+    <string name="camera_permission_message">請允許存取相機以查看模擬效果。</string>
+    <string name="camera_opening">正在開啟相機…</string>
+    <string name="preview_renderer_failed">無法啟動影像處理。</string>
+    <string name="camera_missing">此裝置上找不到相機。</string>
+    <string name="camera_preview_unsupported">此相機不支援即時預覽。</string>
+    <string name="camera_disconnected">相機已中斷連線。</string>
+    <string name="camera_unavailable">相機無法使用，請確認是否有其他應用程式正在使用。</string>
+    <string name="camera_open_failed">無法開啟相機。</string>
+    <string name="camera_preview_failed">無法啟動相機預覽。</string>
+    <string name="camera_configuration_failed">無法設定相機預覽。</string>
+    <string name="acuity_normal">%1$s 視力，一般畫面</string>
+    <string name="acuity_sharp">%1$s 視力，模擬更清晰的畫面</string>
+    <string name="filter_myopia">近視</string>
+    <string name="filter_astigmatism">散光</string>
+    <string name="filter_haze">霧感</string>
+    <string name="distance_auto">自動</string>
+    <string name="distance_far">遠處</string>
+    <string name="distance_cm">%1$s 公分</string>
+    <string name="diopter_value">%1$s D</string>
+    <string name="far_point">最遠清晰距離約 %1$s 公分</string>
+    <string name="depth_active">自動 · 場景深度</string>
+    <string name="depth_move">稍微移動手機以估算深度。</string>
+    <string name="depth_install">輕觸「%1$s」以設定 AR 服務。</string>
+    <string name="depth_starting">正在啟動自動深度估算…</string>
+    <string name="depth_unavailable">無法自動估算 · 請選擇距離</string>
+    <string name="privacy_title">隱私權政策</string>
+    <string name="privacy_google">Google 隱私權政策</string>
+    <string name="privacy_arcore">在相容裝置上，本應用程式使用 Google Play AR 服務（ARCore）進行相機預覽和深度估算，包括手動模式。該服務由 Google 提供，適用 Google 隱私權政策。</string>
+    <string name="privacy_policy">%1$s\n\n執行 AR 工作階段時，Google 會收集帳戶或裝置識別碼、應用程式活動和 API 使用情形，以及效能和診斷資料。ARCore 要求收集這些資料。本應用程式不使用 Cloud Anchors 或 Geospatial API。\n\n視力模擬器在裝置上處理即時相機畫面，不錄製、儲存或上傳這些畫面。濾鏡設定儲存在裝置上，清除應用程式資料即可刪除。本應用程式沒有帳戶、廣告或自有分析服務。你可以在 Android 設定中撤銷相機權限。</string>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Vision Simulator</string>
+    <string name="action_retry">Try again</string>
+    <string name="action_allow_camera">Allow camera</string>
+    <string name="camera_permission_message">Allow camera access to see the simulation.</string>
+    <string name="camera_opening">Opening camera…</string>
+    <string name="preview_renderer_failed">Couldn’t start image processing.</string>
+    <string name="camera_missing">No camera found on this device.</string>
+    <string name="camera_preview_unsupported">This camera doesn’t support live preview.</string>
+    <string name="camera_disconnected">The camera disconnected.</string>
+    <string name="camera_unavailable">The camera is unavailable. Check if another app is using it.</string>
+    <string name="camera_open_failed">Couldn’t open the camera.</string>
+    <string name="camera_preview_failed">Couldn’t start the camera preview.</string>
+    <string name="camera_configuration_failed">Couldn’t set up the camera preview.</string>
+    <string name="acuity_normal">%1$s vision, standard view</string>
+    <string name="acuity_sharp">%1$s vision, simulated extra sharpness</string>
+    <string name="filter_myopia">Myopia</string>
+    <string name="filter_astigmatism">Astigmatism</string>
+    <string name="filter_haze">Haze</string>
+    <string name="distance_auto">Auto</string>
+    <string name="distance_far">Far</string>
+    <string name="distance_cm">%1$s cm</string>
+    <string name="diopter_value">%1$s D</string>
+    <string name="far_point">Far point ≈ %1$s cm</string>
+    <string name="depth_active">Auto · scene depth</string>
+    <string name="depth_move">Move the phone slightly to estimate depth.</string>
+    <string name="depth_install">Tap “%1$s” to set up AR services.</string>
+    <string name="depth_starting">Starting automatic depth…</string>
+    <string name="depth_unavailable">Auto unavailable · choose a distance</string>
+    <string name="privacy_title">Privacy policy</string>
+    <string name="privacy_google">Google Privacy Policy</string>
+    <string name="privacy_developer_contact" translatable="false">Georgiy (georrge1994): Zhore-Chebotarev@mail.ru</string>
+    <string name="privacy_arcore">On compatible devices, this app uses Google Play Services for AR (ARCore) for the camera preview and depth, including in manual modes. Google provides the service under the Google Privacy Policy.</string>
+    <string name="privacy_policy">%1$s\n\nWhen an AR session runs, Google collects account or device identifiers, app activity and API usage, and performance and diagnostic data. This collection is required by ARCore. The app does not use Cloud Anchors or Geospatial APIs.\n\nVision Simulator processes live camera frames on your device to show vision effects. The app does not record, save, or upload these frames. Filter settings are stored on your device. Clear app storage to remove them. The app has no accounts, ads, or its own analytics. You can revoke camera access in Android settings.</string>
+</resources>

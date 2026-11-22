@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">시력 시뮬레이터</string>
+    <string name="action_retry">다시 시도</string>
+    <string name="action_allow_camera">카메라 허용</string>
+    <string name="camera_permission_message">시뮬레이션을 보려면 카메라 접근을 허용하세요.</string>
+    <string name="camera_opening">카메라를 여는 중…</string>
+    <string name="preview_renderer_failed">이미지 처리를 시작할 수 없습니다.</string>
+    <string name="camera_missing">이 기기에서 카메라를 찾을 수 없습니다.</string>
+    <string name="camera_preview_unsupported">이 카메라는 실시간 미리보기를 지원하지 않습니다.</string>
+    <string name="camera_disconnected">카메라 연결이 끊겼습니다.</string>
+    <string name="camera_unavailable">카메라를 사용할 수 없습니다. 다른 앱에서 사용 중인지 확인하세요.</string>
+    <string name="camera_open_failed">카메라를 열 수 없습니다.</string>
+    <string name="camera_preview_failed">카메라 미리보기를 시작할 수 없습니다.</string>
+    <string name="camera_configuration_failed">카메라 미리보기를 설정할 수 없습니다.</string>
+    <string name="acuity_normal">시력 %1$s, 일반 화면</string>
+    <string name="acuity_sharp">시력 %1$s, 더 선명한 시야 시뮬레이션</string>
+    <string name="filter_myopia">근시</string>
+    <string name="filter_astigmatism">난시</string>
+    <string name="filter_haze">뿌연 시야</string>
+    <string name="distance_auto">자동</string>
+    <string name="distance_far">멀리</string>
+    <string name="distance_cm">%1$s cm</string>
+    <string name="diopter_value">%1$s D</string>
+    <string name="far_point">선명하게 보이는 최대 거리 ≈ %1$s cm</string>
+    <string name="depth_active">자동 · 장면의 깊이</string>
+    <string name="depth_move">깊이를 추정하려면 휴대전화를 살짝 움직이세요.</string>
+    <string name="depth_install">‘%1$s’을 눌러 AR 서비스를 설정하세요.</string>
+    <string name="depth_starting">자동 깊이 추정을 시작하는 중…</string>
+    <string name="depth_unavailable">자동 추정 불가 · 거리를 선택하세요</string>
+    <string name="privacy_title">개인정보처리방침</string>
+    <string name="privacy_google">Google 개인정보처리방침</string>
+    <string name="privacy_arcore">호환 기기에서 이 앱은 수동 모드에서도 카메라 미리보기와 깊이에 Google Play AR 서비스(ARCore)를 사용합니다. Google이 이 서비스를 제공하며 Google 개인정보처리방침이 적용됩니다.</string>
+    <string name="privacy_policy">%1$s\n\nAR 세션 중 Google은 계정 또는 기기 식별자, 앱 활동 및 API 사용 정보, 성능 및 진단 데이터를 수집합니다. 이 수집은 ARCore 사용에 필수입니다. 앱은 Cloud Anchors나 Geospatial API를 사용하지 않습니다.\n\n시력 시뮬레이터는 카메라 영상을 기기에서 처리하며 녹화, 저장 또는 업로드하지 않습니다. 필터 설정은 기기에 저장되며 앱 데이터를 삭제하면 지워집니다. 계정, 광고 또는 자체 분석 기능은 없습니다. Android 설정에서 카메라 접근 권한을 취소할 수 있습니다.</string>
+</resources>

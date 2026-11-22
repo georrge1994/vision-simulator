@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Sehsimulator</string>
+    <string name="action_retry">Erneut versuchen</string>
+    <string name="action_allow_camera">Kamera erlauben</string>
+    <string name="camera_permission_message">Erlaube den Kamerazugriff, um die Simulation zu sehen.</string>
+    <string name="camera_opening">Kamera wird geöffnet…</string>
+    <string name="preview_renderer_failed">Die Bildverarbeitung konnte nicht gestartet werden.</string>
+    <string name="camera_missing">Auf diesem Gerät wurde keine Kamera gefunden.</string>
+    <string name="camera_preview_unsupported">Diese Kamera unterstützt keine Live-Vorschau.</string>
+    <string name="camera_disconnected">Die Kameraverbindung wurde getrennt.</string>
+    <string name="camera_unavailable">Die Kamera ist nicht verfügbar. Prüfe, ob eine andere App darauf zugreift.</string>
+    <string name="camera_open_failed">Die Kamera konnte nicht geöffnet werden.</string>
+    <string name="camera_preview_failed">Die Kameravorschau konnte nicht gestartet werden.</string>
+    <string name="camera_configuration_failed">Die Kameravorschau konnte nicht eingerichtet werden.</string>
+    <string name="acuity_normal">%1$s Sehkraft, normales Bild</string>
+    <string name="acuity_sharp">%1$s Sehkraft, simulierte höhere Schärfe</string>
+    <string name="filter_myopia">Kurzsichtigkeit</string>
+    <string name="filter_astigmatism">Astigmatismus</string>
+    <string name="filter_haze">Schleier</string>
+    <string name="distance_auto">Auto</string>
+    <string name="distance_far">Ferne</string>
+    <string name="distance_cm">%1$s cm</string>
+    <string name="diopter_value">%1$s dpt</string>
+    <string name="far_point">Fernpunkt ≈ %1$s cm</string>
+    <string name="depth_active">Auto · Szenentiefe</string>
+    <string name="depth_move">Bewege das Handy etwas, um die Tiefe zu schätzen.</string>
+    <string name="depth_install">Tippe auf „%1$s“, um die AR-Dienste einzurichten.</string>
+    <string name="depth_starting">Automatische Tiefenerkennung startet…</string>
+    <string name="depth_unavailable">Auto nicht verfügbar · wähle eine Entfernung</string>
+    <string name="privacy_title">Datenschutzerklärung</string>
+    <string name="privacy_google">Google-Datenschutz</string>
+    <string name="privacy_arcore">Auf kompatiblen Geräten nutzt diese App die Google Play-Dienste für AR (ARCore) für Kameravorschau und Tiefe, auch im manuellen Modus. Google stellt den Dienst bereit; es gilt die Datenschutzerklärung von Google.</string>
+    <string name="privacy_policy">%1$s\n\nWährend einer AR-Sitzung erfasst Google Konto- oder Gerätekennungen, App-Aktivitäten und API-Nutzung sowie Leistungs- und Diagnosedaten. Diese Erfassung ist für ARCore erforderlich. Die App nutzt weder Cloud Anchors noch die Geospatial API.\n\nDer Sehsimulator verarbeitet das Live-Kamerabild auf deinem Gerät, ohne die Bilder aufzunehmen, zu speichern oder hochzuladen. Filtereinstellungen bleiben auf dem Gerät; lösche die App-Daten, um sie zu entfernen. Die App hat keine Konten, Werbung oder eigene Analysefunktionen. Du kannst den Kamerazugriff in den Android-Einstellungen widerrufen.</string>
+</resources>

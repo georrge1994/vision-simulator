@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">محاكي الرؤية</string>
+    <string name="action_retry">إعادة المحاولة</string>
+    <string name="action_allow_camera">السماح للكاميرا</string>
+    <string name="camera_permission_message">اسمح بالوصول إلى الكاميرا لمشاهدة المحاكاة.</string>
+    <string name="camera_opening">جارٍ فتح الكاميرا…</string>
+    <string name="preview_renderer_failed">تعذّر بدء معالجة الصورة.</string>
+    <string name="camera_missing">لم يُعثر على كاميرا في هذا الجهاز.</string>
+    <string name="camera_preview_unsupported">هذه الكاميرا لا تدعم المعاينة المباشرة.</string>
+    <string name="camera_disconnected">انقطع الاتصال بالكاميرا.</string>
+    <string name="camera_unavailable">الكاميرا غير متاحة. تحقّق ممّا إذا كان تطبيق آخر يستخدمها.</string>
+    <string name="camera_open_failed">تعذّر فتح الكاميرا.</string>
+    <string name="camera_preview_failed">تعذّر بدء معاينة الكاميرا.</string>
+    <string name="camera_configuration_failed">تعذّر إعداد معاينة الكاميرا.</string>
+    <string name="acuity_normal">رؤية %1$s، صورة عادية</string>
+    <string name="acuity_sharp">رؤية %1$s، محاكاة لحدة أعلى</string>
+    <string name="filter_myopia">قصر النظر</string>
+    <string name="filter_astigmatism">اللابؤرية</string>
+    <string name="filter_haze">ضبابية</string>
+    <string name="distance_auto">تلقائي</string>
+    <string name="distance_far">بعيد</string>
+    <string name="distance_cm">%1$s سم</string>
+    <string name="diopter_value">%1$s ديوبتر</string>
+    <string name="far_point">أبعد مسافة للرؤية الواضحة ≈ %1$s سم</string>
+    <string name="depth_active">تلقائي · عمق المشهد</string>
+    <string name="depth_move">حرّك الهاتف قليلًا لتقدير العمق.</string>
+    <string name="depth_install">انقر على «%1$s» لإعداد خدمات الواقع المعزّز.</string>
+    <string name="depth_starting">جارٍ بدء التقدير التلقائي للعمق…</string>
+    <string name="depth_unavailable">الوضع التلقائي غير متاح · اختر مسافة</string>
+    <string name="privacy_title">سياسة الخصوصية</string>
+    <string name="privacy_google">سياسة خصوصية Google</string>
+    <string name="privacy_arcore">على الأجهزة المتوافقة، يستخدم هذا التطبيق خدمات Google Play للواقع المعزّز (ARCore) لمعاينة الكاميرا والعمق، بما في ذلك الأوضاع اليدوية. توفّر Google هذه الخدمات وتخضع لسياسة خصوصية Google.</string>
+    <string name="privacy_policy">%1$s\n\nأثناء جلسة الواقع المعزّز، تجمع Google معرّفات الحساب أو الجهاز ونشاط التطبيق واستخدام واجهات API وبيانات الأداء والتشخيص. هذا الجمع إلزامي لاستخدام ARCore. لا يستخدم التطبيق Cloud Anchors أو Geospatial API.\n\nيعالج محاكي الرؤية صور الكاميرا مباشرة على جهازك دون تسجيلها أو حفظها أو رفعها. تُحفظ إعدادات المرشحات على الجهاز؛ امسح بيانات التطبيق لحذفها. لا توجد حسابات أو إعلانات أو تحليلات خاصة بالتطبيق. يمكنك إلغاء إذن الكاميرا في إعدادات Android.</string>
+</resources>

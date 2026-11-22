@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Симулятор зрения</string>
+    <string name="action_retry">Повторить</string>
+    <string name="action_allow_camera">Разрешить</string>
+    <string name="camera_permission_message">Разреши доступ к камере, чтобы увидеть эффект.</string>
+    <string name="camera_opening">Открываем камеру…</string>
+    <string name="preview_renderer_failed">Не удалось запустить обработку изображения.</string>
+    <string name="camera_missing">На устройстве не найдена камера.</string>
+    <string name="camera_preview_unsupported">Камера не поддерживает просмотр в реальном времени.</string>
+    <string name="camera_disconnected">Камера отключилась.</string>
+    <string name="camera_unavailable">Камера недоступна. Проверь, не использует ли её другое приложение.</string>
+    <string name="camera_open_failed">Не удалось открыть камеру.</string>
+    <string name="camera_preview_failed">Не удалось запустить просмотр с камеры.</string>
+    <string name="camera_configuration_failed">Не удалось настроить просмотр с камеры.</string>
+    <string name="acuity_normal">%1$s зрения, обычное изображение</string>
+    <string name="acuity_sharp">%1$s зрения, имитация повышенной чёткости</string>
+    <string name="filter_myopia">Близорукость</string>
+    <string name="filter_astigmatism">Астигматизм</string>
+    <string name="filter_haze">Дымка</string>
+    <string name="distance_auto">Авто</string>
+    <string name="distance_far">Вдаль</string>
+    <string name="distance_cm">%1$s см</string>
+    <string name="diopter_value">%1$s дптр</string>
+    <string name="far_point">Дальняя точка резкости ≈ %1$s см</string>
+    <string name="depth_active">Авто · глубина кадра</string>
+    <string name="depth_move">Слегка сдвинь телефон для оценки глубины.</string>
+    <string name="depth_install">Нажми «%1$s», чтобы подключить сервисы AR.</string>
+    <string name="depth_starting">Подключаем автоматическую глубину…</string>
+    <string name="depth_unavailable">Авто недоступно · выбери расстояние</string>
+    <string name="privacy_title">Политика конфиденциальности</string>
+    <string name="privacy_google">Политика Google</string>
+    <string name="privacy_arcore">На совместимых устройствах приложение использует сервисы Google Play для AR (ARCore) для просмотра с камеры и оценки глубины, в том числе в ручных режимах. Сервисы предоставляет Google, и на них распространяется политика конфиденциальности Google.</string>
+    <string name="privacy_policy">%1$s\n\nВо время сеанса AR Google собирает идентификаторы аккаунта или устройства, сведения об использовании приложения и API, данные о производительности и диагностике. Этот сбор данных обязателен для ARCore. Приложение не использует Cloud Anchors и Geospatial API.\n\nСимулятор зрения обрабатывает изображение с камеры на устройстве. Приложение не записывает, не сохраняет и не отправляет кадры. Настройки фильтров хранятся на устройстве. Их можно удалить в настройках Android, очистив данные приложения. В приложении нет аккаунтов, рекламы и собственной аналитики. Доступ к камере можно отозвать в настройках Android.</string>
+</resources>

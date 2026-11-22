@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">दृष्टि सिम्युलेटर</string>
+    <string name="action_retry">फिर कोशिश करें</string>
+    <string name="action_allow_camera">अनुमति दें</string>
+    <string name="camera_permission_message">सिम्युलेशन देखने के लिए कैमरे की अनुमति दें।</string>
+    <string name="camera_opening">कैमरा खुल रहा है…</string>
+    <string name="preview_renderer_failed">इमेज प्रोसेसिंग शुरू नहीं हो सकी।</string>
+    <string name="camera_missing">इस डिवाइस पर कोई कैमरा नहीं मिला।</string>
+    <string name="camera_preview_unsupported">इस कैमरे में लाइव प्रीव्यू उपलब्ध नहीं है।</string>
+    <string name="camera_disconnected">कैमरा डिसकनेक्ट हो गया।</string>
+    <string name="camera_unavailable">कैमरा उपलब्ध नहीं है। देखें कि कोई दूसरा ऐप उसका इस्तेमाल तो नहीं कर रहा।</string>
+    <string name="camera_open_failed">कैमरा नहीं खुल सका।</string>
+    <string name="camera_preview_failed">कैमरे का प्रीव्यू शुरू नहीं हो सका।</string>
+    <string name="camera_configuration_failed">कैमरे का प्रीव्यू सेट नहीं हो सका।</string>
+    <string name="acuity_normal">%1$s दृष्टि, सामान्य दृश्य</string>
+    <string name="acuity_sharp">%1$s दृष्टि, अतिरिक्त स्पष्टता का सिम्युलेशन</string>
+    <string name="filter_myopia">निकट दृष्टिदोष</string>
+    <string name="filter_astigmatism">दृष्टिवैषम्य</string>
+    <string name="filter_haze">धुंध</string>
+    <string name="distance_auto">ऑटो</string>
+    <string name="distance_far">दूर</string>
+    <string name="distance_cm">%1$s सेमी</string>
+    <string name="diopter_value">%1$s डायॉप्टर</string>
+    <string name="far_point">साफ़ दिखाई देने की अधिकतम दूरी ≈ %1$s सेमी</string>
+    <string name="depth_active">ऑटो · दृश्य की गहराई</string>
+    <string name="depth_move">गहराई का अनुमान लगाने के लिए फ़ोन को थोड़ा हिलाएँ।</string>
+    <string name="depth_install">AR सेवाएँ सेट करने के लिए “%1$s” पर टैप करें।</string>
+    <string name="depth_starting">ऑटो गहराई मापन शुरू हो रहा है…</string>
+    <string name="depth_unavailable">ऑटो उपलब्ध नहीं · दूरी चुनें</string>
+    <string name="privacy_title">निजता नीति</string>
+    <string name="privacy_google">Google की निजता नीति</string>
+    <string name="privacy_arcore">संगत डिवाइस पर यह ऐप कैमरा प्रीव्यू और गहराई के लिए Google Play Services for AR (ARCore) का इस्तेमाल करता है, मैन्युअल मोड में भी। यह सेवा Google देता है और इस पर Google की निजता नीति लागू होती है।</string>
+    <string name="privacy_policy">%1$s\n\nAR सत्र के दौरान Google खाते या डिवाइस के पहचानकर्ता, ऐप की गतिविधि और API का इस्तेमाल, तथा प्रदर्शन और निदान का डेटा इकट्ठा करता है। ARCore के लिए यह संग्रह ज़रूरी है। ऐप Cloud Anchors या Geospatial API का इस्तेमाल नहीं करता।\n\nदृष्टि सिम्युलेटर कैमरे की लाइव तस्वीरें आपके डिवाइस पर प्रोसेस करता है; उन्हें रिकॉर्ड, सेव या अपलोड नहीं करता। फ़िल्टर की सेटिंग डिवाइस पर रहती हैं; उन्हें हटाने के लिए ऐप का डेटा मिटाएँ। ऐप में खाते, विज्ञापन या अपने विश्लेषण टूल नहीं हैं। Android सेटिंग में कैमरे की अनुमति वापस ले सकते हैं।</string>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Simulator Penglihatan</string>
+    <string name="action_retry">Coba lagi</string>
+    <string name="action_allow_camera">Izinkan kamera</string>
+    <string name="camera_permission_message">Izinkan akses kamera untuk melihat simulasi.</string>
+    <string name="camera_opening">Membuka kamera…</string>
+    <string name="preview_renderer_failed">Pemrosesan gambar tidak dapat dimulai.</string>
+    <string name="camera_missing">Tidak ada kamera yang ditemukan di perangkat ini.</string>
+    <string name="camera_preview_unsupported">Kamera ini tidak mendukung pratinjau langsung.</string>
+    <string name="camera_disconnected">Kamera terputus.</string>
+    <string name="camera_unavailable">Kamera tidak tersedia. Periksa apakah aplikasi lain sedang menggunakannya.</string>
+    <string name="camera_open_failed">Kamera tidak dapat dibuka.</string>
+    <string name="camera_preview_failed">Pratinjau kamera tidak dapat dimulai.</string>
+    <string name="camera_configuration_failed">Pratinjau kamera tidak dapat disiapkan.</string>
+    <string name="acuity_normal">Penglihatan %1$s, tampilan biasa</string>
+    <string name="acuity_sharp">Penglihatan %1$s, simulasi tampilan lebih tajam</string>
+    <string name="filter_myopia">Miopia</string>
+    <string name="filter_astigmatism">Astigmatisme</string>
+    <string name="filter_haze">Berkabut</string>
+    <string name="distance_auto">Otomatis</string>
+    <string name="distance_far">Jauh</string>
+    <string name="distance_cm">%1$s cm</string>
+    <string name="diopter_value">%1$s D</string>
+    <string name="far_point">Titik jauh ≈ %1$s cm</string>
+    <string name="depth_active">Otomatis · kedalaman pemandangan</string>
+    <string name="depth_move">Geser sedikit ponsel untuk memperkirakan kedalaman.</string>
+    <string name="depth_install">Ketuk “%1$s” untuk menyiapkan layanan AR.</string>
+    <string name="depth_starting">Memulai estimasi kedalaman otomatis…</string>
+    <string name="depth_unavailable">Mode otomatis tidak tersedia · pilih jarak</string>
+    <string name="privacy_title">Kebijakan privasi</string>
+    <string name="privacy_google">Privasi Google</string>
+    <string name="privacy_arcore">Pada perangkat yang kompatibel, aplikasi ini menggunakan Layanan Google Play untuk AR (ARCore) untuk pratinjau kamera dan kedalaman, termasuk dalam mode manual. Google menyediakan layanan ini berdasarkan Kebijakan Privasi Google.</string>
+    <string name="privacy_policy">%1$s\n\nSelama sesi AR, Google mengumpulkan pengenal akun atau perangkat, aktivitas aplikasi dan penggunaan API, serta data performa dan diagnostik. Pengumpulan ini diwajibkan oleh ARCore. Aplikasi tidak menggunakan Cloud Anchors atau Geospatial API.\n\nSimulator memproses gambar kamera langsung di perangkat tanpa merekam, menyimpan, atau mengunggahnya. Pengaturan filter disimpan di perangkat; hapus data aplikasi untuk menghapusnya. Aplikasi tidak memiliki akun, iklan, atau analitik sendiri. Anda dapat mencabut akses kamera di setelan Android.</string>
+</resources>

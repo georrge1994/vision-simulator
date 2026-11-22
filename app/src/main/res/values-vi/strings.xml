@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Mô phỏng thị lực</string>
+    <string name="action_retry">Thử lại</string>
+    <string name="action_allow_camera">Cho phép</string>
+    <string name="camera_permission_message">Cho phép truy cập camera để xem mô phỏng.</string>
+    <string name="camera_opening">Đang mở camera…</string>
+    <string name="preview_renderer_failed">Không thể bắt đầu xử lý hình ảnh.</string>
+    <string name="camera_missing">Không tìm thấy camera trên thiết bị này.</string>
+    <string name="camera_preview_unsupported">Camera này không hỗ trợ xem trực tiếp.</string>
+    <string name="camera_disconnected">Camera đã ngắt kết nối.</string>
+    <string name="camera_unavailable">Không thể dùng camera. Hãy kiểm tra xem ứng dụng khác có đang dùng camera không.</string>
+    <string name="camera_open_failed">Không thể mở camera.</string>
+    <string name="camera_preview_failed">Không thể bắt đầu xem hình ảnh từ camera.</string>
+    <string name="camera_configuration_failed">Không thể thiết lập chế độ xem camera.</string>
+    <string name="acuity_normal">Thị lực %1$s, hình ảnh bình thường</string>
+    <string name="acuity_sharp">Thị lực %1$s, mô phỏng độ nét cao hơn</string>
+    <string name="filter_myopia">Cận thị</string>
+    <string name="filter_astigmatism">Loạn thị</string>
+    <string name="filter_haze">Mờ sương</string>
+    <string name="distance_auto">Tự động</string>
+    <string name="distance_far">Xa</string>
+    <string name="distance_cm">%1$s cm</string>
+    <string name="diopter_value">%1$s điốp</string>
+    <string name="far_point">Điểm cực viễn ≈ %1$s cm</string>
+    <string name="depth_active">Tự động · độ sâu cảnh</string>
+    <string name="depth_move">Di chuyển nhẹ điện thoại để ước tính độ sâu.</string>
+    <string name="depth_install">Nhấn “%1$s” để thiết lập dịch vụ AR.</string>
+    <string name="depth_starting">Đang khởi động chế độ tự động đo độ sâu…</string>
+    <string name="depth_unavailable">Không dùng được chế độ tự động · hãy chọn khoảng cách</string>
+    <string name="privacy_title">Chính sách quyền riêng tư</string>
+    <string name="privacy_google">Quyền riêng tư của Google</string>
+    <string name="privacy_arcore">Trên thiết bị tương thích, ứng dụng này dùng Dịch vụ Google Play cho AR (ARCore) cho bản xem trước camera và độ sâu, kể cả ở chế độ thủ công. Google cung cấp dịch vụ này theo Chính sách quyền riêng tư của Google.</string>
+    <string name="privacy_policy">%1$s\n\nTrong phiên AR, Google thu thập mã nhận dạng tài khoản hoặc thiết bị, hoạt động của ứng dụng và việc dùng API, cùng dữ liệu hiệu suất và chẩn đoán. Việc thu thập này là bắt buộc đối với ARCore. Ứng dụng không dùng Cloud Anchors hoặc Geospatial API.\n\nTrình mô phỏng xử lý hình ảnh camera trực tiếp trên thiết bị, không ghi, lưu hoặc tải các khung hình lên mạng. Cài đặt bộ lọc được lưu trên thiết bị; hãy xóa dữ liệu ứng dụng để xóa chúng. Ứng dụng không có tài khoản, quảng cáo hoặc công cụ phân tích riêng. Bạn có thể thu hồi quyền camera trong phần cài đặt Android.</string>
+</resources>

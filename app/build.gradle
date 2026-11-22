@@ -1,0 +1,31 @@
+plugins {
+    id 'com.android.application' version '8.13.2'
+}
+
+android {
+    namespace 'ru.georgiy.vision'
+    compileSdk 36
+
+    defaultConfig {
+        applicationId 'ru.georgiy.vision'
+        minSdk 26
+        targetSdk 36
+        versionCode 5
+        versionName '1.4'
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+
+    packaging {
+        jniLibs {
+            useLegacyPackaging = false
+        }
+    }
+}
+
+dependencies {
+    implementation 'com.google.ar:core:1.57.0'
+}

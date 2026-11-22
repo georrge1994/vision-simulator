@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">视力模拟器</string>
+    <string name="action_retry">重试</string>
+    <string name="action_allow_camera">允许访问</string>
+    <string name="camera_permission_message">请允许访问摄像头以查看模拟效果。</string>
+    <string name="camera_opening">正在打开摄像头…</string>
+    <string name="preview_renderer_failed">无法启动图像处理。</string>
+    <string name="camera_missing">此设备上未找到摄像头。</string>
+    <string name="camera_preview_unsupported">此摄像头不支持实时预览。</string>
+    <string name="camera_disconnected">摄像头已断开连接。</string>
+    <string name="camera_unavailable">摄像头不可用，请检查是否有其他应用正在使用。</string>
+    <string name="camera_open_failed">无法打开摄像头。</string>
+    <string name="camera_preview_failed">无法启动摄像头预览。</string>
+    <string name="camera_configuration_failed">无法配置摄像头预览。</string>
+    <string name="acuity_normal">%1$s 视力，普通画面</string>
+    <string name="acuity_sharp">%1$s 视力，模拟更清晰的画面</string>
+    <string name="filter_myopia">近视</string>
+    <string name="filter_astigmatism">散光</string>
+    <string name="filter_haze">雾感</string>
+    <string name="distance_auto">自动</string>
+    <string name="distance_far">远处</string>
+    <string name="distance_cm">%1$s 厘米</string>
+    <string name="diopter_value">%1$s D</string>
+    <string name="far_point">最远清晰距离约 %1$s 厘米</string>
+    <string name="depth_active">自动 · 场景深度</string>
+    <string name="depth_move">稍微移动手机以估算深度。</string>
+    <string name="depth_install">点按“%1$s”以设置 AR 服务。</string>
+    <string name="depth_starting">正在启动自动深度估算…</string>
+    <string name="depth_unavailable">无法自动估算 · 请选择距离</string>
+    <string name="privacy_title">隐私政策</string>
+    <string name="privacy_google">Google 隐私政策</string>
+    <string name="privacy_arcore">在兼容设备上，本应用使用 Google Play AR 服务（ARCore）进行相机预览和深度估算，包括手动模式。该服务由 Google 提供，受 Google 隐私政策约束。</string>
+    <string name="privacy_policy">%1$s\n\n运行 AR 会话时，Google 会收集账号或设备标识符、应用活动和 API 使用情况，以及性能和诊断数据。ARCore 要求收集这些数据。本应用不使用 Cloud Anchors 或 Geospatial API。\n\n视力模拟器在设备上处理实时相机画面，不录制、保存或上传这些画面。滤镜设置保存在设备上，清除应用数据即可删除。本应用没有账号、广告或自有分析服务。你可以在 Android 设置中撤销相机权限。</string>
+</resources>

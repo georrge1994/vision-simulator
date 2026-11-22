@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">দৃষ্টিশক্তি সিমুলেটর</string>
+    <string name="action_retry">আবার চেষ্টা করুন</string>
+    <string name="action_allow_camera">অনুমতি দিন</string>
+    <string name="camera_permission_message">সিমুলেশন দেখতে ক্যামেরা ব্যবহারের অনুমতি দিন।</string>
+    <string name="camera_opening">ক্যামেরা খোলা হচ্ছে…</string>
+    <string name="preview_renderer_failed">ছবি প্রক্রিয়াকরণ শুরু করা যায়নি।</string>
+    <string name="camera_missing">এই ডিভাইসে কোনো ক্যামেরা পাওয়া যায়নি।</string>
+    <string name="camera_preview_unsupported">এই ক্যামেরায় সরাসরি প্রিভিউ দেখা যায় না।</string>
+    <string name="camera_disconnected">ক্যামেরার সংযোগ বিচ্ছিন্ন হয়েছে।</string>
+    <string name="camera_unavailable">ক্যামেরা ব্যবহার করা যাচ্ছে না। অন্য কোনো অ্যাপ এটি ব্যবহার করছে কি না দেখুন।</string>
+    <string name="camera_open_failed">ক্যামেরা খোলা যায়নি।</string>
+    <string name="camera_preview_failed">ক্যামেরার প্রিভিউ চালু করা যায়নি।</string>
+    <string name="camera_configuration_failed">ক্যামেরার প্রিভিউ সেট আপ করা যায়নি।</string>
+    <string name="acuity_normal">%1$s দৃষ্টিশক্তি, স্বাভাবিক দৃশ্য</string>
+    <string name="acuity_sharp">%1$s দৃষ্টিশক্তি, আরও স্পষ্ট দৃশ্যের সিমুলেশন</string>
+    <string name="filter_myopia">মায়োপিয়া</string>
+    <string name="filter_astigmatism">অ্যাস্টিগম্যাটিজম</string>
+    <string name="filter_haze">কুয়াশা</string>
+    <string name="distance_auto">অটো</string>
+    <string name="distance_far">দূরে</string>
+    <string name="distance_cm">%1$s সেমি</string>
+    <string name="diopter_value">%1$s ডায়প্টার</string>
+    <string name="far_point">স্পষ্ট দেখার সর্বোচ্চ দূরত্ব ≈ %1$s সেমি</string>
+    <string name="depth_active">অটো · দৃশ্যের গভীরতা</string>
+    <string name="depth_move">গভীরতা অনুমান করতে ফোনটি একটু সরান।</string>
+    <string name="depth_install">AR পরিষেবা সেট আপ করতে “%1$s” চাপুন।</string>
+    <string name="depth_starting">স্বয়ংক্রিয় গভীরতা অনুমান চালু হচ্ছে…</string>
+    <string name="depth_unavailable">অটো উপলভ্য নয় · একটি দূরত্ব বেছে নিন</string>
+    <string name="privacy_title">গোপনীয়তা নীতি</string>
+    <string name="privacy_google">Google-এর গোপনীয়তা নীতি</string>
+    <string name="privacy_arcore">সামঞ্জস্যপূর্ণ ডিভাইসে এই অ্যাপ ক্যামেরা প্রিভিউ ও গভীরতার জন্য Google Play Services for AR (ARCore) ব্যবহার করে, ম্যানুয়াল মোডেও। Google এই পরিষেবা দেয় এবং এতে Google-এর গোপনীয়তা নীতি প্রযোজ্য।</string>
+    <string name="privacy_policy">%1$s\n\nAR সেশন চলার সময় Google অ্যাকাউন্ট বা ডিভাইস শনাক্তকারী, অ্যাপের কার্যকলাপ ও API ব্যবহার এবং কার্যক্ষমতা ও ডায়াগনস্টিক তথ্য সংগ্রহ করে। ARCore-এর জন্য এই সংগ্রহ বাধ্যতামূলক। অ্যাপটি Cloud Anchors বা Geospatial API ব্যবহার করে না।\n\nদৃষ্টি সিমুলেটর আপনার ডিভাইসে সরাসরি ক্যামেরার ছবি প্রক্রিয়া করে; ছবিগুলি রেকর্ড, সংরক্ষণ বা আপলোড করে না। ফিল্টার সেটিংস ডিভাইসে থাকে; মুছতে অ্যাপের ডেটা পরিষ্কার করুন। অ্যাপে অ্যাকাউন্ট, বিজ্ঞাপন বা নিজস্ব অ্যানালিটিক্স নেই। Android সেটিংসে ক্যামেরার অনুমতি বাতিল করতে পারেন।</string>
+</resources>

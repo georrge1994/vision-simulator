@@ -1,0 +1,19 @@
+App name
+Vision Simulator
+
+Short description
+Explore how myopia and astigmatism affect your view through a live camera.
+
+Full description
+What does the world look like with −6 diopters of myopia? Point your phone at a familiar scene and compare how it looks with and without simulated vision effects.
+
+• Adjust myopia from −1 to −12 diopters.
+• Add astigmatism and tune it independently, or try a hazy view.
+• Tap 100% for the ordinary camera view, or 120% for a simulated boost in sharpness.
+• On compatible devices, automatic depth uses Google Play Services for AR to vary the myopia effect between the foreground and background. Manual distance presets are also available.
+• The interface is available in 20 languages.
+
+Vision Simulator is an educational demonstration. It does not measure eyesight, diagnose eye conditions, or reproduce everyone’s vision exactly.
+
+Release notes
+Explore live vision effects with independent controls for myopia and astigmatism, automatic depth on supported devices, and 20 interface languages.

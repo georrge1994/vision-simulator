@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Görme Simülatörü</string>
+    <string name="action_retry">Tekrar dene</string>
+    <string name="action_allow_camera">İzin ver</string>
+    <string name="camera_permission_message">Simülasyonu görmek için kamera erişimine izin ver.</string>
+    <string name="camera_opening">Kamera açılıyor…</string>
+    <string name="preview_renderer_failed">Görüntü işleme başlatılamadı.</string>
+    <string name="camera_missing">Bu cihazda kamera bulunamadı.</string>
+    <string name="camera_preview_unsupported">Bu kamera canlı önizlemeyi desteklemiyor.</string>
+    <string name="camera_disconnected">Kamera bağlantısı kesildi.</string>
+    <string name="camera_unavailable">Kameraya erişilemiyor. Başka bir uygulamanın kamerayı kullanıp kullanmadığını kontrol et.</string>
+    <string name="camera_open_failed">Kamera açılamadı.</string>
+    <string name="camera_preview_failed">Kamera önizlemesi başlatılamadı.</string>
+    <string name="camera_configuration_failed">Kamera önizlemesi ayarlanamadı.</string>
+    <string name="acuity_normal">%1$s görme, normal görüntü</string>
+    <string name="acuity_sharp">%1$s görme, artırılmış netlik simülasyonu</string>
+    <string name="filter_myopia">Miyopi</string>
+    <string name="filter_astigmatism">Astigmat</string>
+    <string name="filter_haze">Pus</string>
+    <string name="distance_auto">Oto</string>
+    <string name="distance_far">Uzak</string>
+    <string name="distance_cm">%1$s cm</string>
+    <string name="diopter_value">%1$s D</string>
+    <string name="far_point">Uzak nokta ≈ %1$s cm</string>
+    <string name="depth_active">Oto · sahne derinliği</string>
+    <string name="depth_move">Derinliği tahmin etmek için telefonu hafifçe hareket ettir.</string>
+    <string name="depth_install">AR hizmetlerini ayarlamak için “%1$s” düğmesine dokun.</string>
+    <string name="depth_starting">Otomatik derinlik başlatılıyor…</string>
+    <string name="depth_unavailable">Oto kullanılamıyor · bir mesafe seç</string>
+    <string name="privacy_title">Gizlilik politikası</string>
+    <string name="privacy_google">Google gizlilik politikası</string>
+    <string name="privacy_arcore">Uyumlu cihazlarda bu uygulama, manuel modlar dahil kamera önizlemesi ve derinlik için AR İçin Google Play Hizmetleri’ni (ARCore) kullanır. Google bu hizmeti Google Gizlilik Politikası kapsamında sağlar.</string>
+    <string name="privacy_policy">%1$s\n\nAR oturumu sırasında Google, hesap veya cihaz tanımlayıcıları, uygulama etkinliği ve API kullanımı ile performans ve tanılama verilerini toplar. Bu toplama ARCore için zorunludur. Uygulama Cloud Anchors veya Geospatial API kullanmaz.\n\nGörme simülatörü canlı kamera görüntülerini cihazınızda işler; kaydetmez, saklamaz veya yüklemez. Filtre ayarları cihazda tutulur; silmek için uygulama verilerini temizleyin. Uygulamada hesap, reklam veya kendi analiz araçları yoktur. Android ayarlarında kamera erişimini iptal edebilirsiniz.</string>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Simulateur de vision</string>
+    <string name="action_retry">Réessayer</string>
+    <string name="action_allow_camera">Autoriser</string>
+    <string name="camera_permission_message">Autorisez l’accès à la caméra pour voir la simulation.</string>
+    <string name="camera_opening">Ouverture de la caméra…</string>
+    <string name="preview_renderer_failed">Impossible de démarrer le traitement de l’image.</string>
+    <string name="camera_missing">Aucune caméra n’a été détectée sur cet appareil.</string>
+    <string name="camera_preview_unsupported">Cette caméra ne permet pas l’affichage en direct.</string>
+    <string name="camera_disconnected">La caméra a été déconnectée.</string>
+    <string name="camera_unavailable">La caméra est indisponible. Vérifiez qu’une autre application ne l’utilise pas.</string>
+    <string name="camera_open_failed">Impossible d’ouvrir la caméra.</string>
+    <string name="camera_preview_failed">Impossible de démarrer l’affichage de la caméra.</string>
+    <string name="camera_configuration_failed">Impossible de configurer l’affichage de la caméra.</string>
+    <string name="acuity_normal">Vision à %1$s, image normale</string>
+    <string name="acuity_sharp">Vision à %1$s, netteté accrue simulée</string>
+    <string name="filter_myopia">Myopie</string>
+    <string name="filter_astigmatism">Astigmatisme</string>
+    <string name="filter_haze">Voile</string>
+    <string name="distance_auto">Auto</string>
+    <string name="distance_far">Loin</string>
+    <string name="distance_cm">%1$s cm</string>
+    <string name="diopter_value">%1$s δ</string>
+    <string name="far_point">Point de netteté le plus éloigné ≈ %1$s cm</string>
+    <string name="depth_active">Auto · profondeur de la scène</string>
+    <string name="depth_move">Déplacez légèrement le téléphone pour estimer la profondeur.</string>
+    <string name="depth_install">Touchez « %1$s » pour configurer les services de RA.</string>
+    <string name="depth_starting">Démarrage de la profondeur automatique…</string>
+    <string name="depth_unavailable">Auto indisponible · choisissez une distance</string>
+    <string name="privacy_title">Politique de confidentialité</string>
+    <string name="privacy_google">Confidentialité Google</string>
+    <string name="privacy_arcore">Sur les appareils compatibles, cette application utilise les services Google Play pour la RA (ARCore) pour l’aperçu caméra et la profondeur, même en mode manuel. Google fournit ce service conformément à ses règles de confidentialité.</string>
+    <string name="privacy_policy">%1$s\n\nPendant une session de RA, Google collecte des identifiants de compte ou d’appareil, l’activité de l’application et l’utilisation des API, ainsi que des données de performances et de diagnostic. Cette collecte est obligatoire pour ARCore. L’application n’utilise ni Cloud Anchors ni l’API Geospatial.\n\nLe simulateur traite les images de la caméra sur votre appareil sans les enregistrer, les conserver ni les envoyer. Les réglages des filtres restent sur l’appareil ; effacez les données de l’application pour les supprimer. Il n’y a ni comptes, ni publicité, ni analyse propre à l’application. Vous pouvez révoquer l’accès à la caméra dans les paramètres Android.</string>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">จำลองการมองเห็น</string>
+    <string name="action_retry">ลองอีกครั้ง</string>
+    <string name="action_allow_camera">อนุญาต</string>
+    <string name="camera_permission_message">อนุญาตให้เข้าถึงกล้องเพื่อดูภาพจำลอง</string>
+    <string name="camera_opening">กำลังเปิดกล้อง…</string>
+    <string name="preview_renderer_failed">เริ่มประมวลผลภาพไม่ได้</string>
+    <string name="camera_missing">ไม่พบกล้องในอุปกรณ์นี้</string>
+    <string name="camera_preview_unsupported">กล้องนี้ไม่รองรับการแสดงตัวอย่างแบบสด</string>
+    <string name="camera_disconnected">การเชื่อมต่อกับกล้องขาดหาย</string>
+    <string name="camera_unavailable">ใช้กล้องไม่ได้ โปรดตรวจสอบว่ามีแอปอื่นกำลังใช้กล้องอยู่หรือไม่</string>
+    <string name="camera_open_failed">เปิดกล้องไม่ได้</string>
+    <string name="camera_preview_failed">เริ่มแสดงภาพจากกล้องไม่ได้</string>
+    <string name="camera_configuration_failed">ตั้งค่าการแสดงภาพจากกล้องไม่ได้</string>
+    <string name="acuity_normal">การมองเห็น %1$s ภาพปกติ</string>
+    <string name="acuity_sharp">การมองเห็น %1$s จำลองภาพที่คมชัดขึ้น</string>
+    <string name="filter_myopia">สายตาสั้น</string>
+    <string name="filter_astigmatism">สายตาเอียง</string>
+    <string name="filter_haze">ภาพมัว</string>
+    <string name="distance_auto">อัตโนมัติ</string>
+    <string name="distance_far">ไกล</string>
+    <string name="distance_cm">%1$s ซม.</string>
+    <string name="diopter_value">%1$s ไดออปเตอร์</string>
+    <string name="far_point">ระยะไกลสุดที่เห็นชัด ≈ %1$s ซม.</string>
+    <string name="depth_active">อัตโนมัติ · ความลึกของฉาก</string>
+    <string name="depth_move">ขยับโทรศัพท์เล็กน้อยเพื่อประเมินความลึก</string>
+    <string name="depth_install">แตะ “%1$s” เพื่อตั้งค่าบริการ AR</string>
+    <string name="depth_starting">กำลังเริ่มประเมินความลึกอัตโนมัติ…</string>
+    <string name="depth_unavailable">ใช้โหมดอัตโนมัติไม่ได้ · เลือกระยะ</string>
+    <string name="privacy_title">นโยบายความเป็นส่วนตัว</string>
+    <string name="privacy_google">ความเป็นส่วนตัวของ Google</string>
+    <string name="privacy_arcore">บนอุปกรณ์ที่รองรับ แอปนี้ใช้บริการ Google Play สำหรับ AR (ARCore) เพื่อแสดงภาพจากกล้องและความลึก รวมถึงในโหมดปรับด้วยตนเอง Google ให้บริการนี้ภายใต้นโยบายความเป็นส่วนตัวของ Google</string>
+    <string name="privacy_policy">%1$s\n\nระหว่างเซสชัน AR ทาง Google จะเก็บตัวระบุบัญชีหรืออุปกรณ์ กิจกรรมของแอปและการใช้ API รวมถึงข้อมูลประสิทธิภาพและการวินิจฉัย การเก็บข้อมูลนี้จำเป็นสำหรับ ARCore แอปไม่ได้ใช้ Cloud Anchors หรือ Geospatial API\n\nแอปจำลองการมองเห็นประมวลผลภาพสดจากกล้องบนอุปกรณ์ โดยไม่บันทึก จัดเก็บ หรืออัปโหลดภาพ การตั้งค่าฟิลเตอร์เก็บไว้บนอุปกรณ์ ล้างข้อมูลแอปเพื่อลบการตั้งค่า แอปไม่มีบัญชี โฆษณา หรือระบบวิเคราะห์ของตนเอง คุณสามารถเพิกถอนสิทธิ์กล้องได้ในการตั้งค่า Android</string>
+</resources>

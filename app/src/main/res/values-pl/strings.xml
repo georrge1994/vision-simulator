@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Symulator wzroku</string>
+    <string name="action_retry">Spróbuj ponownie</string>
+    <string name="action_allow_camera">Zezwól</string>
+    <string name="camera_permission_message">Zezwól na dostęp do aparatu, aby zobaczyć symulację.</string>
+    <string name="camera_opening">Uruchamianie aparatu…</string>
+    <string name="preview_renderer_failed">Nie udało się uruchomić przetwarzania obrazu.</string>
+    <string name="camera_missing">Nie znaleziono aparatu w tym urządzeniu.</string>
+    <string name="camera_preview_unsupported">Ten aparat nie obsługuje podglądu na żywo.</string>
+    <string name="camera_disconnected">Aparat został odłączony.</string>
+    <string name="camera_unavailable">Aparat jest niedostępny. Sprawdź, czy nie korzysta z niego inna aplikacja.</string>
+    <string name="camera_open_failed">Nie udało się otworzyć aparatu.</string>
+    <string name="camera_preview_failed">Nie udało się uruchomić podglądu aparatu.</string>
+    <string name="camera_configuration_failed">Nie udało się skonfigurować podglądu aparatu.</string>
+    <string name="acuity_normal">%1$s ostrości wzroku, zwykły obraz</string>
+    <string name="acuity_sharp">%1$s ostrości wzroku, symulowana większa ostrość</string>
+    <string name="filter_myopia">Krótkowzroczność</string>
+    <string name="filter_astigmatism">Astygmatyzm</string>
+    <string name="filter_haze">Zamglenie</string>
+    <string name="distance_auto">Auto</string>
+    <string name="distance_far">Daleko</string>
+    <string name="distance_cm">%1$s cm</string>
+    <string name="diopter_value">%1$s D</string>
+    <string name="far_point">Punkt dali ≈ %1$s cm</string>
+    <string name="depth_active">Auto · głębia sceny</string>
+    <string name="depth_move">Przesuń lekko telefon, aby oszacować głębię.</string>
+    <string name="depth_install">Dotknij „%1$s”, aby skonfigurować usługi AR.</string>
+    <string name="depth_starting">Uruchamianie automatycznego pomiaru głębi…</string>
+    <string name="depth_unavailable">Auto niedostępne · wybierz odległość</string>
+    <string name="privacy_title">Polityka prywatności</string>
+    <string name="privacy_google">Prywatność w Google</string>
+    <string name="privacy_arcore">Na zgodnych urządzeniach ta aplikacja używa Usług Google Play dla AR (ARCore) do podglądu aparatu i głębi, także w trybach ręcznych. Usługę udostępnia Google zgodnie ze swoją polityką prywatności.</string>
+    <string name="privacy_policy">%1$s\n\nPodczas sesji AR Google zbiera identyfikatory konta lub urządzenia, dane o aktywności aplikacji i użyciu API oraz dane o wydajności i diagnostyce. Zbieranie tych danych jest wymagane przez ARCore. Aplikacja nie używa Cloud Anchors ani Geospatial API.\n\nSymulator przetwarza obraz z aparatu na urządzeniu, bez nagrywania, zapisywania ani przesyłania klatek. Ustawienia filtrów pozostają na urządzeniu; wyczyść dane aplikacji, aby je usunąć. Nie ma kont, reklam ani własnych narzędzi analitycznych. Dostęp do aparatu możesz cofnąć w ustawieniach Androida.</string>
+</resources>
