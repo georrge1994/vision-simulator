@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="app_name">Simulateur de vision</string>
+    <string name="app_name">Simulateur de myopie</string>
     <string name="action_retry">Réessayer</string>
     <string name="action_allow_camera">Autoriser</string>
     <string name="camera_permission_message">Autorisez l’accès à la caméra pour voir la simulation.</string>

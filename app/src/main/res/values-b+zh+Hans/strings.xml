@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="app_name">视力模拟器</string>
+    <string name="app_name">近视模拟器</string>
     <string name="action_retry">重试</string>
     <string name="action_allow_camera">允许访问</string>
     <string name="camera_permission_message">请允许访问摄像头以查看模拟效果。</string>

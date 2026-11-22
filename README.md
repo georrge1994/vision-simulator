@@ -1,6 +1,8 @@
-# Vision Simulator
+# Myopia Simulator
 
 Android camera preview with combinable myopia, astigmatism and haze effects, optional ARCore scene depth, and 20 interface languages. Application ID: `ru.georgiy.vision`.
+
+Russian name: «Симулятор близорукости».
 
 Original source is released under the [MIT License](LICENSE); dependencies retain their [own terms](THIRD_PARTY_NOTICES.md). Maintained by [Georgiy (georrge1994)](https://github.com/georrge1994). Report bugs or ask privacy questions through [GitHub Issues](https://github.com/georrge1994/vision-simulator/issues); do not include passwords, signing keys, or other private information in an issue.
 

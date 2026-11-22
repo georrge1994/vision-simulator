@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="app_name">จำลองการมองเห็น</string>
+    <string name="app_name">เครื่องจำลองสายตาสั้น</string>
     <string name="action_retry">ลองอีกครั้ง</string>
     <string name="action_allow_camera">อนุญาต</string>
     <string name="camera_permission_message">อนุญาตให้เข้าถึงกล้องเพื่อดูภาพจำลอง</string>

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="app_name">شبیه‌ساز بینایی</string>
+    <string name="app_name">شبیه‌ساز نزدیک‌بینی</string>
     <string name="action_retry">تلاش دوباره</string>
     <string name="action_allow_camera">اجازه دادن</string>
     <string name="camera_permission_message">برای دیدن شبیه‌سازی، به دوربین اجازهٔ دسترسی بدهید.</string>

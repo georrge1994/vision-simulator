@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="app_name">दृष्टि सिम्युलेटर</string>
+    <string name="app_name">निकटदृष्टि दोष सिम्युलेटर</string>
     <string name="action_retry">फिर कोशिश करें</string>
     <string name="action_allow_camera">अनुमति दें</string>
     <string name="camera_permission_message">सिम्युलेशन देखने के लिए कैमरे की अनुमति दें।</string>

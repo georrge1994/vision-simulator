@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="app_name">দৃষ্টিশক্তি সিমুলেটর</string>
+    <string name="app_name">মায়োপিয়া সিমুলেটর</string>
     <string name="action_retry">আবার চেষ্টা করুন</string>
     <string name="action_allow_camera">অনুমতি দিন</string>
     <string name="camera_permission_message">সিমুলেশন দেখতে ক্যামেরা ব্যবহারের অনুমতি দিন।</string>

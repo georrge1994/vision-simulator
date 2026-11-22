@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="app_name">Mô phỏng thị lực</string>
+    <string name="app_name">Mô phỏng cận thị</string>
     <string name="action_retry">Thử lại</string>
     <string name="action_allow_camera">Cho phép</string>
     <string name="camera_permission_message">Cho phép truy cập camera để xem mô phỏng.</string>

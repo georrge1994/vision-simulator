@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="app_name">Symulator wzroku</string>
+    <string name="app_name">Symulator krótkowzroczności</string>
     <string name="action_retry">Spróbuj ponownie</string>
     <string name="action_allow_camera">Zezwól</string>
     <string name="camera_permission_message">Zezwól na dostęp do aparatu, aby zobaczyć symulację.</string>

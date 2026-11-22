@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="app_name">Симулятор зору</string>
+    <string name="app_name">Симулятор короткозорості</string>
     <string name="action_retry">Повторити</string>
     <string name="action_allow_camera">Дозволити</string>
     <string name="camera_permission_message">Дозволь доступ до камери, щоб побачити симуляцію.</string>

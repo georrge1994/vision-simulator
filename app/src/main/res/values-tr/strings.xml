@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="app_name">Görme Simülatörü</string>
+    <string name="app_name">Miyopi Simülatörü</string>
     <string name="action_retry">Tekrar dene</string>
     <string name="action_allow_camera">İzin ver</string>
     <string name="camera_permission_message">Simülasyonu görmek için kamera erişimine izin ver.</string>

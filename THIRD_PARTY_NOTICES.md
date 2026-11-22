@@ -1,6 +1,6 @@
 # Third-party notices
 
-The [MIT license](LICENSE) applies to Vision Simulator's original source code.
+The [MIT license](LICENSE) applies to Myopia Simulator's original source code.
 The third-party dependencies below retain their own terms and are not relicensed
 under MIT by this project.
 

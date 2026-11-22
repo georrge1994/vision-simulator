@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="app_name">Sehsimulator</string>
+    <string name="app_name">Myopie-Simulator</string>
     <string name="action_retry">Erneut versuchen</string>
     <string name="action_allow_camera">Kamera erlauben</string>
     <string name="camera_permission_message">Erlaube den Kamerazugriff, um die Simulation zu sehen.</string>

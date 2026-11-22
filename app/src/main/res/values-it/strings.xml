@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="app_name">Simulatore visivo</string>
+    <string name="app_name">Simulatore di miopia</string>
     <string name="action_retry">Riprova</string>
     <string name="action_allow_camera">Consenti</string>
     <string name="camera_permission_message">Consenti l’accesso alla fotocamera per vedere la simulazione.</string>

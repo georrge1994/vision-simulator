@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="app_name">視力模擬器</string>
+    <string name="app_name">近視模擬器</string>
     <string name="action_retry">重試</string>
     <string name="action_allow_camera">允許存取</string>
     <string name="camera_permission_message">請允許存取相機以查看模擬效果。</string>

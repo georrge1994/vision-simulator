@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="app_name">시력 시뮬레이터</string>
+    <string name="app_name">근시 시뮬레이터</string>
     <string name="action_retry">다시 시도</string>
     <string name="action_allow_camera">카메라 허용</string>
     <string name="camera_permission_message">시뮬레이션을 보려면 카메라 접근을 허용하세요.</string>

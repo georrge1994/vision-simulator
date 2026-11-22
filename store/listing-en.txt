@@ -1,5 +1,5 @@
 App name
-Vision Simulator
+Myopia Simulator
 
 Short description
 Explore how myopia and astigmatism affect your view through a live camera.
@@ -15,7 +15,7 @@ What does the world look like with −6 diopters of myopia? Point your phone at 
 
 On supported devices with ARCore installed, ARCore can also run in manual-distance and ordinary-camera modes. During AR sessions, Google collects account or device IDs, app/API usage, performance and diagnostic data under its Terms of Service and Privacy Policy.
 
-Vision Simulator is not a medical device and does not diagnose, treat, cure, or prevent any medical condition. It is an educational demonstration that does not measure eyesight or reproduce everyone’s vision exactly. Consult a healthcare professional for medical advice, diagnosis, or treatment.
+Myopia Simulator is not a medical device and does not diagnose, treat, cure, or prevent any medical condition. It is an educational demonstration that does not measure eyesight or reproduce everyone’s vision exactly. Consult a healthcare professional for medical advice, diagnosis, or treatment.
 
 Release notes
 Explore live vision effects with independent controls for myopia and astigmatism, automatic depth on supported devices, and 20 interface languages.

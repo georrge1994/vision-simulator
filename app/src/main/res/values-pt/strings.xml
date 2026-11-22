@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="app_name">Simulador de visão</string>
+    <string name="app_name">Simulador de miopia</string>
     <string name="action_retry">Tentar novamente</string>
     <string name="action_allow_camera">Permitir câmera</string>
     <string name="camera_permission_message">Permita o acesso à câmera para ver a simulação.</string>

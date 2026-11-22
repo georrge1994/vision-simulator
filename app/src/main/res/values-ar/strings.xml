@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="app_name">محاكي الرؤية</string>
+    <string name="app_name">محاكي قصر النظر</string>
     <string name="action_retry">إعادة المحاولة</string>
     <string name="action_allow_camera">السماح للكاميرا</string>
     <string name="camera_permission_message">اسمح بالوصول إلى الكاميرا لمشاهدة المحاكاة.</string>

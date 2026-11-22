@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="app_name">見え方シミュレーター</string>
+    <string name="app_name">近視シミュレーター</string>
     <string name="action_retry">再試行</string>
     <string name="action_allow_camera">許可する</string>
     <string name="camera_permission_message">シミュレーションを見るには、カメラへのアクセスを許可してください。</string>
