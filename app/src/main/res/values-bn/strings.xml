@@ -30,6 +30,6 @@
     <string name="depth_unavailable">অটো উপলভ্য নয় · একটি দূরত্ব বেছে নিন</string>
     <string name="privacy_title">গোপনীয়তা নীতি</string>
     <string name="privacy_google">Google-এর গোপনীয়তা নীতি</string>
-    <string name="privacy_arcore">সামঞ্জস্যপূর্ণ ডিভাইসে এই অ্যাপ ক্যামেরা প্রিভিউ ও গভীরতার জন্য Google Play Services for AR (ARCore) ব্যবহার করে, ম্যানুয়াল মোডেও। Google এই পরিষেবা দেয় এবং এতে Google-এর গোপনীয়তা নীতি প্রযোজ্য।</string>
+    <string name="privacy_arcore">সামঞ্জস্যপূর্ণ ডিভাইসে এই অ্যাপ ক্যামেরা প্রিভিউ ও গভীরতার জন্য Google Play Services for AR (ARCore) ব্যবহার করে, ম্যানুয়াল মোডেও। Google এই পরিষেবা দেয় এবং এতে Google-এর গোপনীয়তা নীতি প্রযোজ্য।\n\nARCore-এর কার্যকারিতায় Google-এর পরিষেবার শর্তাবলী https://policies.google.com/terms এবং গোপনীয়তা নীতি https://policies.google.com/privacy প্রযোজ্য।</string>
     <string name="privacy_policy">%1$s\n\nAR সেশন চলার সময় Google অ্যাকাউন্ট বা ডিভাইস শনাক্তকারী, অ্যাপের কার্যকলাপ ও API ব্যবহার এবং কার্যক্ষমতা ও ডায়াগনস্টিক তথ্য সংগ্রহ করে। ARCore-এর জন্য এই সংগ্রহ বাধ্যতামূলক। অ্যাপটি Cloud Anchors বা Geospatial API ব্যবহার করে না।\n\nদৃষ্টি সিমুলেটর আপনার ডিভাইসে সরাসরি ক্যামেরার ছবি প্রক্রিয়া করে; ছবিগুলি রেকর্ড, সংরক্ষণ বা আপলোড করে না। ফিল্টার সেটিংস ডিভাইসে থাকে; মুছতে অ্যাপের ডেটা পরিষ্কার করুন। অ্যাপে অ্যাকাউন্ট, বিজ্ঞাপন বা নিজস্ব অ্যানালিটিক্স নেই। Android সেটিংসে ক্যামেরার অনুমতি বাতিল করতে পারেন।</string>
 </resources>

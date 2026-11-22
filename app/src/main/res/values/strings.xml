@@ -31,6 +31,6 @@
     <string name="privacy_title">Privacy policy</string>
     <string name="privacy_google">Google Privacy Policy</string>
     <string name="privacy_developer_contact" translatable="false">Georgiy (georrge1994): Zhore-Chebotarev@mail.ru</string>
-    <string name="privacy_arcore">On compatible devices, this app uses Google Play Services for AR (ARCore) for the camera preview and depth, including in manual modes. Google provides the service under the Google Privacy Policy.</string>
+    <string name="privacy_arcore">On compatible devices, this app uses Google Play Services for AR (ARCore) for the camera preview and depth, including in manual modes. Google provides the service under the Google Privacy Policy.\n\nARCore functionality is subject to Google Terms of Service: https://policies.google.com/terms and Google Privacy Policy: https://policies.google.com/privacy</string>
     <string name="privacy_policy">%1$s\n\nWhen an AR session runs, Google collects account or device identifiers, app activity and API usage, and performance and diagnostic data. This collection is required by ARCore. The app does not use Cloud Anchors or Geospatial APIs.\n\nVision Simulator processes live camera frames on your device to show vision effects. The app does not record, save, or upload these frames. Filter settings are stored on your device. Clear app storage to remove them. The app has no accounts, ads, or its own analytics. You can revoke camera access in Android settings.</string>
 </resources>

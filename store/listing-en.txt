@@ -13,7 +13,7 @@ What does the world look like with −6 diopters of myopia? Point your phone at 
 • On compatible devices, automatic depth uses Google Play Services for AR to vary the myopia effect between the foreground and background. Manual distance presets are also available.
 • The interface is available in 20 languages.
 
-Vision Simulator is an educational demonstration. It does not measure eyesight, diagnose eye conditions, or reproduce everyone’s vision exactly.
+Vision Simulator is not a medical device and does not diagnose, treat, cure, or prevent any medical condition. It is an educational demonstration that does not measure eyesight or reproduce everyone’s vision exactly. Consult a healthcare professional for medical advice, diagnosis, or treatment.
 
 Release notes
 Explore live vision effects with independent controls for myopia and astigmatism, automatic depth on supported devices, and 20 interface languages.

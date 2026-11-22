@@ -30,6 +30,6 @@
     <string name="depth_unavailable">Auto indisponível · escolha uma distância</string>
     <string name="privacy_title">Política de privacidade</string>
     <string name="privacy_google">Privacidade do Google</string>
-    <string name="privacy_arcore">Em dispositivos compatíveis, este app usa os Serviços do Google Play para RA (ARCore) para a visualização da câmera e a profundidade, inclusive nos modos manuais. O Google fornece o serviço conforme sua Política de Privacidade.</string>
+    <string name="privacy_arcore">Em dispositivos compatíveis, este app usa os Serviços do Google Play para RA (ARCore) para a visualização da câmera e a profundidade, inclusive nos modos manuais. O Google fornece o serviço conforme sua Política de Privacidade.\n\nAs funções do ARCore estão sujeitas aos Termos de Serviço do Google: https://policies.google.com/terms e à Política de Privacidade do Google: https://policies.google.com/privacy</string>
     <string name="privacy_policy">%1$s\n\nDurante uma sessão de RA, o Google coleta identificadores de conta ou dispositivo, atividade do app e uso de APIs, além de dados de desempenho e diagnóstico. Essa coleta é obrigatória para o ARCore. O app não usa Cloud Anchors nem a API Geospatial.\n\nO simulador processa as imagens da câmera no dispositivo sem gravá-las, salvá-las ou enviá-las. As configurações dos filtros ficam no dispositivo; limpe os dados do app para removê-las. Não há contas, anúncios ou ferramentas de análise próprias. Você pode revogar o acesso à câmera nas configurações do Android.</string>
 </resources>

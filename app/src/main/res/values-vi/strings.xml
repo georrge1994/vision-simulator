@@ -30,6 +30,6 @@
     <string name="depth_unavailable">Không dùng được chế độ tự động · hãy chọn khoảng cách</string>
     <string name="privacy_title">Chính sách quyền riêng tư</string>
     <string name="privacy_google">Quyền riêng tư của Google</string>
-    <string name="privacy_arcore">Trên thiết bị tương thích, ứng dụng này dùng Dịch vụ Google Play cho AR (ARCore) cho bản xem trước camera và độ sâu, kể cả ở chế độ thủ công. Google cung cấp dịch vụ này theo Chính sách quyền riêng tư của Google.</string>
+    <string name="privacy_arcore">Trên thiết bị tương thích, ứng dụng này dùng Dịch vụ Google Play cho AR (ARCore) cho bản xem trước camera và độ sâu, kể cả ở chế độ thủ công. Google cung cấp dịch vụ này theo Chính sách quyền riêng tư của Google.\n\nCác chức năng ARCore chịu sự điều chỉnh của Điều khoản dịch vụ của Google: https://policies.google.com/terms và Chính sách quyền riêng tư của Google: https://policies.google.com/privacy</string>
     <string name="privacy_policy">%1$s\n\nTrong phiên AR, Google thu thập mã nhận dạng tài khoản hoặc thiết bị, hoạt động của ứng dụng và việc dùng API, cùng dữ liệu hiệu suất và chẩn đoán. Việc thu thập này là bắt buộc đối với ARCore. Ứng dụng không dùng Cloud Anchors hoặc Geospatial API.\n\nTrình mô phỏng xử lý hình ảnh camera trực tiếp trên thiết bị, không ghi, lưu hoặc tải các khung hình lên mạng. Cài đặt bộ lọc được lưu trên thiết bị; hãy xóa dữ liệu ứng dụng để xóa chúng. Ứng dụng không có tài khoản, quảng cáo hoặc công cụ phân tích riêng. Bạn có thể thu hồi quyền camera trong phần cài đặt Android.</string>
 </resources>

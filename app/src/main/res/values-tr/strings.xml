@@ -30,6 +30,6 @@
     <string name="depth_unavailable">Oto kullanılamıyor · bir mesafe seç</string>
     <string name="privacy_title">Gizlilik politikası</string>
     <string name="privacy_google">Google gizlilik politikası</string>
-    <string name="privacy_arcore">Uyumlu cihazlarda bu uygulama, manuel modlar dahil kamera önizlemesi ve derinlik için AR İçin Google Play Hizmetleri’ni (ARCore) kullanır. Google bu hizmeti Google Gizlilik Politikası kapsamında sağlar.</string>
+    <string name="privacy_arcore">Uyumlu cihazlarda bu uygulama, manuel modlar dahil kamera önizlemesi ve derinlik için AR İçin Google Play Hizmetleri’ni (ARCore) kullanır. Google bu hizmeti Google Gizlilik Politikası kapsamında sağlar.\n\nARCore işlevleri Google Hizmet Şartları https://policies.google.com/terms ve Google Gizlilik Politikası https://policies.google.com/privacy kapsamındadır.</string>
     <string name="privacy_policy">%1$s\n\nAR oturumu sırasında Google, hesap veya cihaz tanımlayıcıları, uygulama etkinliği ve API kullanımı ile performans ve tanılama verilerini toplar. Bu toplama ARCore için zorunludur. Uygulama Cloud Anchors veya Geospatial API kullanmaz.\n\nGörme simülatörü canlı kamera görüntülerini cihazınızda işler; kaydetmez, saklamaz veya yüklemez. Filtre ayarları cihazda tutulur; silmek için uygulama verilerini temizleyin. Uygulamada hesap, reklam veya kendi analiz araçları yoktur. Android ayarlarında kamera erişimini iptal edebilirsiniz.</string>
 </resources>

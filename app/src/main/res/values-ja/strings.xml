@@ -30,6 +30,6 @@
     <string name="depth_unavailable">自動推定を利用できません。距離を選択してください。</string>
     <string name="privacy_title">プライバシーポリシー</string>
     <string name="privacy_google">Google のプライバシーポリシー</string>
-    <string name="privacy_arcore">対応端末では、このアプリは手動モードでもカメラプレビューと奥行き推定に Google Play 開発者サービス（ARCore）を使用します。このサービスは Google が提供し、Google のプライバシーポリシーが適用されます。</string>
+    <string name="privacy_arcore">対応端末では、このアプリは手動モードでもカメラプレビューと奥行き推定に Google Play 開発者サービス（ARCore）を使用します。このサービスは Google が提供し、Google のプライバシーポリシーが適用されます。\n\nARCore の機能には Google 利用規約 https://policies.google.com/terms と Google プライバシーポリシー https://policies.google.com/privacy が適用されます。</string>
     <string name="privacy_policy">%1$s\n\nAR セッション中、Google はアカウントまたは端末の識別子、アプリの利用状況と API の使用状況、パフォーマンスおよび診断データを収集します。この収集は ARCore の利用に必須です。このアプリは Cloud Anchors や Geospatial API を使用しません。\n\n視力シミュレーターはカメラ映像を端末内で処理し、録画、保存、アップロードは行いません。フィルター設定は端末に保存され、アプリのデータを消去すると削除されます。アカウント、広告、独自の解析機能はありません。Android の設定でカメラへのアクセスを取り消せます。</string>
 </resources>

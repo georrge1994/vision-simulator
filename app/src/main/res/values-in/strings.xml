@@ -30,6 +30,6 @@
     <string name="depth_unavailable">Mode otomatis tidak tersedia · pilih jarak</string>
     <string name="privacy_title">Kebijakan privasi</string>
     <string name="privacy_google">Privasi Google</string>
-    <string name="privacy_arcore">Pada perangkat yang kompatibel, aplikasi ini menggunakan Layanan Google Play untuk AR (ARCore) untuk pratinjau kamera dan kedalaman, termasuk dalam mode manual. Google menyediakan layanan ini berdasarkan Kebijakan Privasi Google.</string>
+    <string name="privacy_arcore">Pada perangkat yang kompatibel, aplikasi ini menggunakan Layanan Google Play untuk AR (ARCore) untuk pratinjau kamera dan kedalaman, termasuk dalam mode manual. Google menyediakan layanan ini berdasarkan Kebijakan Privasi Google.\n\nFungsi ARCore tunduk pada Persyaratan Layanan Google: https://policies.google.com/terms dan Kebijakan Privasi Google: https://policies.google.com/privacy</string>
     <string name="privacy_policy">%1$s\n\nSelama sesi AR, Google mengumpulkan pengenal akun atau perangkat, aktivitas aplikasi dan penggunaan API, serta data performa dan diagnostik. Pengumpulan ini diwajibkan oleh ARCore. Aplikasi tidak menggunakan Cloud Anchors atau Geospatial API.\n\nSimulator memproses gambar kamera langsung di perangkat tanpa merekam, menyimpan, atau mengunggahnya. Pengaturan filter disimpan di perangkat; hapus data aplikasi untuk menghapusnya. Aplikasi tidak memiliki akun, iklan, atau analitik sendiri. Anda dapat mencabut akses kamera di setelan Android.</string>
 </resources>

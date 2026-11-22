@@ -488,7 +488,7 @@ public final class VisionActivity extends Activity
                 .create();
         dialog.show();
         TextView message = dialog.findViewById(android.R.id.message);
-        if (message != null) Linkify.addLinks(message, Linkify.EMAIL_ADDRESSES);
+        if (message != null) Linkify.addLinks(message, Linkify.EMAIL_ADDRESSES | Linkify.WEB_URLS);
         dialog.getButton(AlertDialog.BUTTON_NEUTRAL).setOnClickListener(view -> {
             Intent googlePrivacy = new Intent(Intent.ACTION_VIEW,
                     Uri.parse("https://policies.google.com/privacy"));

@@ -30,6 +30,6 @@
     <string name="depth_unavailable">자동 추정 불가 · 거리를 선택하세요</string>
     <string name="privacy_title">개인정보처리방침</string>
     <string name="privacy_google">Google 개인정보처리방침</string>
-    <string name="privacy_arcore">호환 기기에서 이 앱은 수동 모드에서도 카메라 미리보기와 깊이에 Google Play AR 서비스(ARCore)를 사용합니다. Google이 이 서비스를 제공하며 Google 개인정보처리방침이 적용됩니다.</string>
+    <string name="privacy_arcore">호환 기기에서 이 앱은 수동 모드에서도 카메라 미리보기와 깊이에 Google Play AR 서비스(ARCore)를 사용합니다. Google이 이 서비스를 제공하며 Google 개인정보처리방침이 적용됩니다.\n\nARCore 기능에는 Google 서비스 약관 https://policies.google.com/terms 및 Google 개인정보처리방침 https://policies.google.com/privacy 이 적용됩니다.</string>
     <string name="privacy_policy">%1$s\n\nAR 세션 중 Google은 계정 또는 기기 식별자, 앱 활동 및 API 사용 정보, 성능 및 진단 데이터를 수집합니다. 이 수집은 ARCore 사용에 필수입니다. 앱은 Cloud Anchors나 Geospatial API를 사용하지 않습니다.\n\n시력 시뮬레이터는 카메라 영상을 기기에서 처리하며 녹화, 저장 또는 업로드하지 않습니다. 필터 설정은 기기에 저장되며 앱 데이터를 삭제하면 지워집니다. 계정, 광고 또는 자체 분석 기능은 없습니다. Android 설정에서 카메라 접근 권한을 취소할 수 있습니다.</string>
 </resources>

@@ -30,6 +30,6 @@
     <string name="depth_unavailable">Auto niedostępne · wybierz odległość</string>
     <string name="privacy_title">Polityka prywatności</string>
     <string name="privacy_google">Prywatność w Google</string>
-    <string name="privacy_arcore">Na zgodnych urządzeniach ta aplikacja używa Usług Google Play dla AR (ARCore) do podglądu aparatu i głębi, także w trybach ręcznych. Usługę udostępnia Google zgodnie ze swoją polityką prywatności.</string>
+    <string name="privacy_arcore">Na zgodnych urządzeniach ta aplikacja używa Usług Google Play dla AR (ARCore) do podglądu aparatu i głębi, także w trybach ręcznych. Usługę udostępnia Google zgodnie ze swoją polityką prywatności.\n\nFunkcje ARCore podlegają Warunkom korzystania z usług Google: https://policies.google.com/terms oraz Polityce prywatności Google: https://policies.google.com/privacy</string>
     <string name="privacy_policy">%1$s\n\nPodczas sesji AR Google zbiera identyfikatory konta lub urządzenia, dane o aktywności aplikacji i użyciu API oraz dane o wydajności i diagnostyce. Zbieranie tych danych jest wymagane przez ARCore. Aplikacja nie używa Cloud Anchors ani Geospatial API.\n\nSymulator przetwarza obraz z aparatu na urządzeniu, bez nagrywania, zapisywania ani przesyłania klatek. Ustawienia filtrów pozostają na urządzeniu; wyczyść dane aplikacji, aby je usunąć. Nie ma kont, reklam ani własnych narzędzi analitycznych. Dostęp do aparatu możesz cofnąć w ustawieniach Androida.</string>
 </resources>

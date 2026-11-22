@@ -30,6 +30,6 @@
     <string name="depth_unavailable">الوضع التلقائي غير متاح · اختر مسافة</string>
     <string name="privacy_title">سياسة الخصوصية</string>
     <string name="privacy_google">سياسة خصوصية Google</string>
-    <string name="privacy_arcore">على الأجهزة المتوافقة، يستخدم هذا التطبيق خدمات Google Play للواقع المعزّز (ARCore) لمعاينة الكاميرا والعمق، بما في ذلك الأوضاع اليدوية. توفّر Google هذه الخدمات وتخضع لسياسة خصوصية Google.</string>
+    <string name="privacy_arcore">على الأجهزة المتوافقة، يستخدم هذا التطبيق خدمات Google Play للواقع المعزّز (ARCore) لمعاينة الكاميرا والعمق، بما في ذلك الأوضاع اليدوية. توفّر Google هذه الخدمات وتخضع لسياسة خصوصية Google.\n\nتخضع وظائف ARCore لبنود خدمة Google: https://policies.google.com/terms وسياسة خصوصية Google: https://policies.google.com/privacy</string>
     <string name="privacy_policy">%1$s\n\nأثناء جلسة الواقع المعزّز، تجمع Google معرّفات الحساب أو الجهاز ونشاط التطبيق واستخدام واجهات API وبيانات الأداء والتشخيص. هذا الجمع إلزامي لاستخدام ARCore. لا يستخدم التطبيق Cloud Anchors أو Geospatial API.\n\nيعالج محاكي الرؤية صور الكاميرا مباشرة على جهازك دون تسجيلها أو حفظها أو رفعها. تُحفظ إعدادات المرشحات على الجهاز؛ امسح بيانات التطبيق لحذفها. لا توجد حسابات أو إعلانات أو تحليلات خاصة بالتطبيق. يمكنك إلغاء إذن الكاميرا في إعدادات Android.</string>
 </resources>

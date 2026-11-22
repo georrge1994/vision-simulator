@@ -30,6 +30,6 @@
     <string name="depth_unavailable">ऑटो उपलब्ध नहीं · दूरी चुनें</string>
     <string name="privacy_title">निजता नीति</string>
     <string name="privacy_google">Google की निजता नीति</string>
-    <string name="privacy_arcore">संगत डिवाइस पर यह ऐप कैमरा प्रीव्यू और गहराई के लिए Google Play Services for AR (ARCore) का इस्तेमाल करता है, मैन्युअल मोड में भी। यह सेवा Google देता है और इस पर Google की निजता नीति लागू होती है।</string>
+    <string name="privacy_arcore">संगत डिवाइस पर यह ऐप कैमरा प्रीव्यू और गहराई के लिए Google Play Services for AR (ARCore) का इस्तेमाल करता है, मैन्युअल मोड में भी। यह सेवा Google देता है और इस पर Google की निजता नीति लागू होती है।\n\nARCore की सुविधाओं पर Google की सेवा की शर्तें https://policies.google.com/terms और निजता नीति https://policies.google.com/privacy लागू होती हैं।</string>
     <string name="privacy_policy">%1$s\n\nAR सत्र के दौरान Google खाते या डिवाइस के पहचानकर्ता, ऐप की गतिविधि और API का इस्तेमाल, तथा प्रदर्शन और निदान का डेटा इकट्ठा करता है। ARCore के लिए यह संग्रह ज़रूरी है। ऐप Cloud Anchors या Geospatial API का इस्तेमाल नहीं करता।\n\nदृष्टि सिम्युलेटर कैमरे की लाइव तस्वीरें आपके डिवाइस पर प्रोसेस करता है; उन्हें रिकॉर्ड, सेव या अपलोड नहीं करता। फ़िल्टर की सेटिंग डिवाइस पर रहती हैं; उन्हें हटाने के लिए ऐप का डेटा मिटाएँ। ऐप में खाते, विज्ञापन या अपने विश्लेषण टूल नहीं हैं। Android सेटिंग में कैमरे की अनुमति वापस ले सकते हैं।</string>
 </resources>

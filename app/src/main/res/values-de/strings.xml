@@ -30,6 +30,6 @@
     <string name="depth_unavailable">Auto nicht verfügbar · wähle eine Entfernung</string>
     <string name="privacy_title">Datenschutzerklärung</string>
     <string name="privacy_google">Google-Datenschutz</string>
-    <string name="privacy_arcore">Auf kompatiblen Geräten nutzt diese App die Google Play-Dienste für AR (ARCore) für Kameravorschau und Tiefe, auch im manuellen Modus. Google stellt den Dienst bereit; es gilt die Datenschutzerklärung von Google.</string>
+    <string name="privacy_arcore">Auf kompatiblen Geräten nutzt diese App die Google Play-Dienste für AR (ARCore) für Kameravorschau und Tiefe, auch im manuellen Modus. Google stellt den Dienst bereit; es gilt die Datenschutzerklärung von Google.\n\nFür die ARCore-Funktionen gelten die Google-Nutzungsbedingungen: https://policies.google.com/terms und die Google-Datenschutzerklärung: https://policies.google.com/privacy</string>
     <string name="privacy_policy">%1$s\n\nWährend einer AR-Sitzung erfasst Google Konto- oder Gerätekennungen, App-Aktivitäten und API-Nutzung sowie Leistungs- und Diagnosedaten. Diese Erfassung ist für ARCore erforderlich. Die App nutzt weder Cloud Anchors noch die Geospatial API.\n\nDer Sehsimulator verarbeitet das Live-Kamerabild auf deinem Gerät, ohne die Bilder aufzunehmen, zu speichern oder hochzuladen. Filtereinstellungen bleiben auf dem Gerät; lösche die App-Daten, um sie zu entfernen. Die App hat keine Konten, Werbung oder eigene Analysefunktionen. Du kannst den Kamerazugriff in den Android-Einstellungen widerrufen.</string>
 </resources>

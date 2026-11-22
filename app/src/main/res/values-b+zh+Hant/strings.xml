@@ -30,6 +30,6 @@
     <string name="depth_unavailable">無法自動估算 · 請選擇距離</string>
     <string name="privacy_title">隱私權政策</string>
     <string name="privacy_google">Google 隱私權政策</string>
-    <string name="privacy_arcore">在相容裝置上，本應用程式使用 Google Play AR 服務（ARCore）進行相機預覽和深度估算，包括手動模式。該服務由 Google 提供，適用 Google 隱私權政策。</string>
+    <string name="privacy_arcore">在相容裝置上，本應用程式使用 Google Play AR 服務（ARCore）進行相機預覽和深度估算，包括手動模式。該服務由 Google 提供，適用 Google 隱私權政策。\n\nARCore 功能適用 Google 服務條款 https://policies.google.com/terms 和 Google 隱私權政策 https://policies.google.com/privacy 。</string>
     <string name="privacy_policy">%1$s\n\n執行 AR 工作階段時，Google 會收集帳戶或裝置識別碼、應用程式活動和 API 使用情形，以及效能和診斷資料。ARCore 要求收集這些資料。本應用程式不使用 Cloud Anchors 或 Geospatial API。\n\n視力模擬器在裝置上處理即時相機畫面，不錄製、儲存或上傳這些畫面。濾鏡設定儲存在裝置上，清除應用程式資料即可刪除。本應用程式沒有帳戶、廣告或自有分析服務。你可以在 Android 設定中撤銷相機權限。</string>
 </resources>

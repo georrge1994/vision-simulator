@@ -30,6 +30,6 @@
     <string name="depth_unavailable">无法自动估算 · 请选择距离</string>
     <string name="privacy_title">隐私政策</string>
     <string name="privacy_google">Google 隐私政策</string>
-    <string name="privacy_arcore">在兼容设备上，本应用使用 Google Play AR 服务（ARCore）进行相机预览和深度估算，包括手动模式。该服务由 Google 提供，受 Google 隐私政策约束。</string>
+    <string name="privacy_arcore">在兼容设备上，本应用使用 Google Play AR 服务（ARCore）进行相机预览和深度估算，包括手动模式。该服务由 Google 提供，受 Google 隐私政策约束。\n\nARCore 功能受 Google 服务条款 https://policies.google.com/terms 和 Google 隐私政策 https://policies.google.com/privacy 约束。</string>
     <string name="privacy_policy">%1$s\n\n运行 AR 会话时，Google 会收集账号或设备标识符、应用活动和 API 使用情况，以及性能和诊断数据。ARCore 要求收集这些数据。本应用不使用 Cloud Anchors 或 Geospatial API。\n\n视力模拟器在设备上处理实时相机画面，不录制、保存或上传这些画面。滤镜设置保存在设备上，清除应用数据即可删除。本应用没有账号、广告或自有分析服务。你可以在 Android 设置中撤销相机权限。</string>
 </resources>
