@@ -15,6 +15,7 @@ keystore.properties
 *.apk
 *.apks
 /release/
+/keystore/
 
 # Local handoff notes and credentials must stay private.
 /HANDOFF-RU.md
